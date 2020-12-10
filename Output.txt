@@ -1,0 +1,36 @@
+Output: 
+-----------------------------------
+Agent 1 spawned at floor number 2, with security level: s
+Starting position of the elevator is 3
+Agent calls the elevator.
+Elevator is at S floor
+Agent chose G button
+Elevator is at G floor
+Agent has chosen to open the door.
+-----------------------------------
+Agent 2 spawned at floor number 2, with security level: s
+Starting position of the elevator is 1
+Agent calls the elevator.
+Elevator is at S floor
+Agent chose T1 button
+Elevator is at T1 floor
+Agent hasn't got permission to open the door!
+Agent chose T1 button
+Agent is already on T1 floor!
+Agent hasn't got permission to open the door!
+Agent chose G button
+Elevator is at S floor
+Elevator is at G floor
+Agent has chosen to open the door.
+-----------------------------------
+Agent 3 spawned at floor number 2, with security level: s
+Starting position of the elevator is 1
+Agent calls the elevator.
+Elevator is at S floor
+Agent chose T1 button
+Elevator is at T1 floor
+Agent hasn't got permission to open the door!
+Agent chose S button
+Elevator is at S floor
+Agent has chosen to open the door.
+-----------------------------------
